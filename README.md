@@ -7,6 +7,7 @@ Howdy!
 💻 Learning `TS`, `Go` <br/>
 🔎 [LinkedIn](https://www.linkedin.com/in/leigh-larson/) </br>
 🦸🏻‍♀️ She / hers
+⛺️ Camping when not coding
 
 ## Tech Skills
 
