@@ -6,7 +6,7 @@ Howdy!
 👩🏻‍🎓 Turing School of Software & Design, 2020; 🤘🏼 University of Texas at Austin, 2016 <br/>
 💻 Learning `Typescript`, `Go` <br/>
 🔎 [LinkedIn](https://www.linkedin.com/in/leigh-larson/) </br>
-🦸🏻‍♀️ She / hers
+🦸🏻‍♀️ She / hers <br />
 ⛺️ Camping when not coding
 
 ## Tech Skills
