@@ -4,7 +4,7 @@ Howdy!
 
 🤠 Texan --> 🏔 Colorado via 🇺🇸 US Air Force <br />
 👩🏻‍🎓 Turing School of Software & Design, 2020; 🤘🏼 University of Texas at Austin, 2016 <br/>
-💻 Learning `Typescript`, `Angular` <br/>
+💻 React / Redux / Saga <br/>
 🔎 [LinkedIn](https://www.linkedin.com/in/leigh-larson/) </br>
 🦸🏻‍♀️ She / hers <br />
 ⛺️ Camping when not coding
