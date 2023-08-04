@@ -21,5 +21,3 @@ Howdy!
   <img src="https://img.shields.io/badge/redux%20-%23593d88.svg?&style=for-the-badge&logo=redux&logoColor=white" />
   <img src="https://img.shields.io/badge/express.js%20-%23404d59.svg?&style=for-the-badge" />
 </p>
-
-[![Leigh's github stats](https://github-readme-stats.vercel.app/api?username=leighlars)](https://github.com/leighlars/github-readme-stats)
